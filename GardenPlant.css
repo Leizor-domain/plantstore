@@ -1,0 +1,93 @@
+.header{
+	background-color:green;
+	border: 2px solid;
+	text-align: center;
+	padding: 50px 20px;
+}
+
+.footer{
+    background-color:green;
+	text-align: center;
+}
+
+body {
+    background-color: #d9f2d9;
+	text-align: center;
+	float: center;
+	
+}
+
+.paragraph{
+	width:60%;
+	float: right;
+	text-align: left;
+	padding-right: 20%;
+}
+
+.img{
+	width:63%;
+	padding: 40px 20px;
+	text-align: left;
+}
+
+.menu {
+	border: 1px solid;
+	margin: auto;
+	width: 100%;
+	text-align: left;
+	color: white;
+	background-color: #5cb85c;
+}
+
+.subhead{
+	text-align: center;
+	margin: center;
+	float: center;
+}
+
+.pictures {
+    margin: auto;
+    width: 70%;
+	padding:10px;
+}
+
+.logo{
+	float: right;
+	padding:0px;
+	width: 12%;
+}
+
+.card-text .old-price {
+    text-decoration: line-through;
+    color: grey;
+    font-size: 0.9em;
+}
+
+.btn-add-to-cart {
+    background-color: white;
+    color: black;
+}
+
+.card-product-card{
+    background-color:white;
+	border: none;
+	
+	text-align: center;
+	margin-bottom: 20px;
+}
+
+.row{
+	text-align: left;
+	padding: 50px 20px;
+	border-radius: 30px;
+	
+	margin: auto;
+	color: white;
+	background-color: #5cb85c;
+}
+
+.product-image {
+	width: 100%;
+    height: auto;
+	border-radius: 50px;
+}
